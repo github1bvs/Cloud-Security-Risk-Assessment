@@ -77,7 +77,3 @@ The Cloud Security Risk Assessment project aims to identify, evaluate, and addre
 - **Project Lead**: Venkata Swamy Bathala
 - **Cloud Security Specialist**: Venkata Swamy Bathala
 - **Cloud Risk Assessment Expert**: Venkata Swamy Bathala
-
-## License
-
-This project is licensed under the MIT License.
